@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tasklist_200625",
-    "slug": "tasklist_200625",
+    "name": "navigation_250625",
+    "slug": "navigation_250625",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,9 +24,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ]
+    }
   }
 }
